@@ -16,9 +16,9 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
      style="margin-left: 20px;" />
 
 <ul>
-  <li>* Pursuing Master in Information System Security @ Concordia University, Montreal, Quebec, Canada</li>
-  <li>* Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
-  <li>* Currently preparing for CompTIA Security+</li>
+  <li>Pursuing Master in Information System Security @ Concordia University, Montreal, Quebec, Canada</li>
+  <li>Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
+  <li>Currently preparing for CompTIA Security+</li>
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
   <li>📫 Contact: <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
 </ul>
