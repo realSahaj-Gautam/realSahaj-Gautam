@@ -10,7 +10,7 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 <table>
 <tr>
-<td width="60%">
+<td width="80%">
 
 ### 👨‍💻 About Me
 
@@ -21,8 +21,8 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 </td>
 
-<td width="40%">
-<img src="https://your-image-link-here.com/image.png" width="100%" />
+<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
 </td>
 </tr>
 </table>
