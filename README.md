@@ -4,7 +4,9 @@
 Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities where I can contribute to security operations, threat detection, and risk mitigation initiatives.
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&color=brightgreen" />
+<p>
+  <img src="https://img.shields.io/badge/Profile%20Views-948-97CA00?style=for-the-badge&labelColor=2F2F2F" />
+</p>
 
 <h2>👨‍💻 About Me</h2>
 
