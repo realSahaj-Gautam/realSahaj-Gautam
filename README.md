@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
-<h3>I'm a Cybersecurity enthusiast, with a strong passion for securing systems against real-world threats. Pursuing a Master’s in Information System Security at Concordia University, I’m actively seeking cybersecurity Co-op internship and full-time opportunities.</h3>
- 
+<h3>
+Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities where I can contribute to security operations, threat detection, and risk mitigation initiatives.
+</h3>
 
 <img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&color=brightgreen" />
 
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🔐 Aspiring Cybersecurity Analyst preparing for CompTIA Security+</li>
-  <li>🛡️ Focused on SOC Operations, SIEM, Threat Hunting & Penetration Testing</li>
-  <li>🏆 Top 2% on TryHackMe</li>
-  <li>📫 sahaj.gautam14@gmail.com</li>
+  <li>🔐 Graduate student specializing in Information System Security</li>
+  <li>🛡️ Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
+  <li>📚 Currently preparing for CompTIA Security+</li>
+  <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
+  <li>📫 Contact: sahaj.gautam14@gmail.com</li>
 </ul>
 
 <br>
@@ -20,11 +22,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="75%" />
 </p>
 
-
-
-
-
-* ⚡ Fun fact I'm a tech geek and a Cricket enthusiast
+* ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
@@ -35,7 +33,7 @@
 <h3>🛠️ Languages & Tools I’m Proficient In</h3>
 
 <p>
-I have strong working proficiency in the following languages and tools:
+Hands-on experience and working proficiency in the following technologies:
 </p>
 
 <p>
