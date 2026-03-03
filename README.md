@@ -41,4 +41,7 @@
 I have strong working proficiency in the following languages and tools:
 </p>
 
-<img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell,splunk" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell" />
+  <img src="https://cdn.simpleicons.org/splunk" height="48" />
+</p>
