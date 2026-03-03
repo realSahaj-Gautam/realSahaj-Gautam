@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
 <h3>
-Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities where I can contribute to security operations, threat detection, and risk mitigation initiatives.
+Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities.
 </h3>
 
 <p>
@@ -21,7 +21,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realSahaj-Gautam&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 * ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
