@@ -29,10 +29,16 @@
 
 * ⚡ Fun fact I'm a tech geek and a Cricket enthusiast
 
-<a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,bash,javascript" />
+<h3>🛠️ Languages & Tools I’m Proficient In</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=realSahaj-Gautam&show_icons=true&theme=tokyonight" />
+<p>
+I have strong working proficiency in the following languages and tools:
+</p>
+
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell,splunk" />
