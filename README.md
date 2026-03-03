@@ -13,7 +13,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
   <li>🛡️ Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
   <li>📚 Currently preparing for CompTIA Security+</li>
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
-  <li>📫 Contact: sahaj.gautam14@gmail.com</li>
+  <li>📫 Contact: <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
 </ul>
 
 <br>
