@@ -23,7 +23,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
   <li>📫 Contact: <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
 </ul>
 
-* ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
+* 😄 Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity and a passionate cricket follower.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
