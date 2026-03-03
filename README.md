@@ -10,6 +10,10 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 <h2>👨‍💻 About Me</h2>
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 <ul>
   <li>🔐 Graduate student specializing in Information System Security</li>
   <li>🛡️ Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
@@ -18,11 +22,14 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
   <li>📫 Contact: <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
 </ul>
 
-<br>
+</td>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60%" />
-</p>
+<td width="45%" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="85%" />
+</td>
+
+</tr>
+</table>
 
 * ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
 
