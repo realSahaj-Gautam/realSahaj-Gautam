@@ -26,7 +26,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
