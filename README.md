@@ -16,8 +16,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
      style="margin-left: 20px;" />
 
 <ul>
-  <li>Pursuing Master in Information System Security @ Concordia University, 
-    Montreal, Quebec, Canada</li>
+  <li>Pursuing Master in Information System Security @ Concordia University, Montreal, Quebec, Canada</li>
   <li>Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
   <li>Currently preparing for CompTIA Security+</li>
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
@@ -26,7 +25,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 * 😄 Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity & a passionate cricket follower.
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
