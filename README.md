@@ -30,14 +30,20 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 <br>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
 
-  &nbsp;&nbsp;&nbsp;
+<br>
 
+<h3>🛠️ Languages & Tools</h3>
+
+<p>
+Hands-on experience and working proficiency in:
+</p>
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell" />
 </p>
