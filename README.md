@@ -3,7 +3,7 @@
 <h3>I'm a Cybersecurity enthusiast, with a strong passion for securing systems against real-world threats. Pursuing a Master’s in Information System Security at Concordia University, I’m actively seeking cybersecurity Co-op internship and full-time opportunities.</h3>
  
 
-
+<img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&color=brightgreen" />
 
 <table>
 <tr>
