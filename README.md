@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
 <h3>
-Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities.
+Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. I am actively seeking Cybersecurity Co-op and full-time opportunities.
 </h3>
 
 <p>
@@ -16,7 +16,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
      style="margin-left: 20px;" />
 
 <ul>
-  <li>🔐 Graduate student specializing in Information System Security</li>
+  <li>🔐 Pursuing Master in Information System Security @ Concordia University</li>
   <li>🛡️ Focused on SOC Operations, SIEM Monitoring, Threat Hunting, and Penetration Testing</li>
   <li>📚 Currently preparing for CompTIA Security+</li>
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
