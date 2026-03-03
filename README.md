@@ -21,7 +21,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60%" />
 </p>
 
 * ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
