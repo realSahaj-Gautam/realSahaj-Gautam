@@ -38,5 +38,5 @@ Hands-on experience and working proficiency in the following technologies:
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell" />
-  <img src="https://cdn.simpleicons.org/splunk" height="48" />
+  <img src="https://cdn.simpleicons.org/splunk/000000" height="48" style="vertical-align: middle; margin-left: 8px;" />
 </p>
