@@ -5,25 +5,20 @@
 
 <img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&color=brightgreen" />
 
-<table>
-<tr>
+<h2>👨‍💻 About Me</h2>
 
-<td width="40%" valign="top">
+<ul>
+  <li>🔐 Aspiring Cybersecurity Analyst preparing for CompTIA Security+</li>
+  <li>🛡️ Focused on SOC Operations, SIEM, Threat Hunting & Penetration Testing</li>
+  <li>🏆 Top 2% on TryHackMe</li>
+  <li>📫 sahaj.gautam14@gmail.com</li>
+</ul>
 
-### 👨‍💻 About Me
+<br>
 
-- 🔭 I’m currently studying for CompTIA Security+
-- SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe  
-- 📫 Reach me at: sahaj.gautam14@gmail.com  
-
-</td>
-
-<td width="60%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="75%" />
+</p>
 
 
 
