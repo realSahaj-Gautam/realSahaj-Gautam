@@ -5,7 +5,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Profile%20Views-948-97CA00?style=for-the-badge&labelColor=2F2F2F" />
+  <img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&label=PROFILE%20VIEWS&color=97CA00&style=flat-square" />
 </p>
 
 <h2>👨‍💻 About Me</h2>
