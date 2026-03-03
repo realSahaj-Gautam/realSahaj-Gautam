@@ -29,8 +29,8 @@
 
 * ⚡ Fun fact I'm a tech geek and a Cricket enthusiast
 
-<h3>Feel free to connect with me on LinkedIn:
-https://www.linkedin.com/in/sahaj-gautam-1648771b3/</h3>
+<h4>Feel free to connect with me on LinkedIn:
+https://www.linkedin.com/in/sahaj-gautam-1648771b3/</h4>
 
-<h3>I'm proficient in the following lagnuages and tools:</h3>
+<h4>I'm proficient in the following lagnuages and tools:</h4>
 Python Bash Powershell JS Splunk Burpsuite
