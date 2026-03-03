@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sahaj</h1>
+<h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
-<p align="center">
-  <strong>Cybersecurity Enthusiast</strong> focused on defending systems against real-world threats.<br>
-  Actively seeking Cybersecurity Co-op Internships and Full-Time opportunities.
-</p>
+<h3>
+Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities.
+</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=realSahaj-Gautam&label=PROFILE%20VIEWS&color=97CA00&style=flat-square" />
