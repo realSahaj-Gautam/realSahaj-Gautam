@@ -17,12 +17,12 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently studying for CompTIA Security+    
-- 📫 Reach me at: your@email.com  
+- 📫 Reach me at: sahaj.gautam14@gmail.com  
 
 </td>
 
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120%" />
+<td width="20%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150%" />
 </td>
 </tr>
 </table>
@@ -30,9 +30,6 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 
 
-realSahaj-Gautam
-
-* 📫 Feel free to reach me at sahaj.gautam14@gmail.com
 
 * ⚡ Fun fact I'm a tech geek and a Cricket enthusiast
 
