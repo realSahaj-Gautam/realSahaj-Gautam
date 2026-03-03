@@ -2,7 +2,9 @@
 
 <h3>I'm a Cybersecurity enthusiast, with a strong passion for securing systems against real-world threats. Pursuing a Master’s in Information System Security at Concordia University, I’m actively seeking cybersecurity Co-op internship and full-time opportunities.</h3>
 
+
 SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe
+
 
 <i>M.Eng in Information System Security @ Concordia University.</i> 
 
@@ -14,15 +16,13 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on data projects  
-- 🌱 Learning Machine Learning  
-- 💬 Ask me about Python, SQL, Tableau  
+- 🔭 I’m currently studying for CompTIA Security+    
 - 📫 Reach me at: your@email.com  
 
 </td>
 
 <td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="120%" />
 </td>
 </tr>
 </table>
