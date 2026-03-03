@@ -31,8 +31,12 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 <br>
 
 <p align="center">
+  <b>Feel free to connect with me on LinkedIn:</b>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
-    <img src="https://camo.githubusercontent.com/dca448416b3b01ae5ceda441789f8d40c613c564adefc449cf47361ece7cae78/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30332f39352f33392f31362f3336305f465f3339353339313635305f364c6655343156354134574968645469733839394f61463777585667546867502e6a7067" width="90px" />
+    <img src="https://camo.githubusercontent.com/dca448416b3b01ae5ceda441789f8d40c613c564adefc449cf47361ece7cae78/68747470733a2f2f74332e667463646e2e6e65742f6a70672f30332f39352f33392f31362f3336305f465f3339353339313635305f364c6655343156354134574968645469733839394f61463777585667546867502e6a7067" width="100px" />
   </a>
 </p>
 
