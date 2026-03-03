@@ -21,7 +21,7 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 </td>
 
-<td width="20%">
+<td width="40%">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150%" />
 </td>
 </tr>
