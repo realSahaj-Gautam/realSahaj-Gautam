@@ -10,7 +10,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 <h2>👨‍💻 About Me</h2>
 
-<img align="centre" 
+<img align="right" 
      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" 
      width="350px" 
      style="margin-left: 20px;" />
@@ -25,7 +25,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 * 😄 Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity & a passionate cricket follower.
 
-<p align="right">
+<p align="centre">
   <a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/" target="_blank">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
