@@ -10,9 +10,10 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 
 <h2>👨‍💻 About Me</h2>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" 
+     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" 
+     width="350px" 
+     style="margin-left: 20px;" />
 
 <ul>
   <li>🔐 Graduate student specializing in Information System Security</li>
@@ -21,15 +22,6 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs and challenges</li>
   <li>📫 Contact: <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
 </ul>
-
-</td>
-
-<td width="45%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoycW11dzhna2JvNjgwMmNoZ2VjaGljOG9rbHU3czl2amdubnB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="85%" />
-</td>
-
-</tr>
-</table>
 
 * ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
 
