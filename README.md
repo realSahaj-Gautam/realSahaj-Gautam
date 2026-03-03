@@ -38,10 +38,4 @@ Hands-on experience and working proficiency in the following technologies:
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,powershell" />
-  
-  <img src="https://cdn.simpleicons.org/splunk/000000" height="48" style="vertical-align: middle; margin-left: 8px;" />
-  
-  <img src="https://cdn.simpleicons.org/microsoftdefender/5E5E5E" height="48" style="vertical-align: middle; margin-left: 8px;" />
-  
-  <img src="https://cdn.simpleicons.org/microsoftsentinel/0078D4" height="48" style="vertical-align: middle; margin-left: 8px;" />
 </p>
