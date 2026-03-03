@@ -7,19 +7,21 @@
 
 <table>
 <tr>
-<td width="60%">
+
+<td width="40%" valign="top">
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently studying for CompTIA Security+
-- SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe    
+- SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe  
 - 📫 Reach me at: sahaj.gautam14@gmail.com  
 
 </td>
 
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150%" />
+<td width="60%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
 </td>
+
 </tr>
 </table>
 
