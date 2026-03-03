@@ -23,13 +23,10 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
   <li>Currently preparing for CompTIA Security+</li>
   <li>🏆 Ranked Top 2% on TryHackMe through consistent hands-on labs & challenges</li>
   <li>📫 <strong>Contact:</strong> <a href="mailto:sahaj.gautam14@gmail.com">sahaj.gautam14@gmail.com</a></li>
+  <li>😄 <strong>Fun Fact:</strong> I'm a tech geek and a cricket enthusiast</li>
 </ul>
 
 <br clear="right"/>
-
-<p>
-😄 <strong>Fun Fact:</strong> I'm a tech geek and a cricket enthusiast
-</p>
 
 <br>
 
