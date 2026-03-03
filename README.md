@@ -29,7 +29,10 @@
 
 * ⚡ Fun fact I'm a tech geek and a Cricket enthusiast
 
-<h4>Feel free to connect with me on LinkedIn:
-https://www.linkedin.com/in/sahaj-gautam-1648771b3/</h4>
+<a href="https://www.linkedin.com/in/sahaj-gautam-1648771b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 <img src="https://skillicons.dev/icons?i=python,bash,javascript" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=realSahaj-Gautam&show_icons=true&theme=tokyonight" />
