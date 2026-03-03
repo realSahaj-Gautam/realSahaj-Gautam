@@ -8,6 +8,28 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 
 
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on data projects  
+- 🌱 Learning Machine Learning  
+- 💬 Ask me about Python, SQL, Tableau  
+- 📫 Reach me at: your@email.com  
+
+</td>
+
+<td width="40%">
+<img src="https://your-image-link-here.com/image.png" width="100%" />
+</td>
+</tr>
+</table>
+
+
+
+
 realSahaj-Gautam
 
 * 📫 Feel free to reach me at sahaj.gautam14@gmail.com
