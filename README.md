@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
 <h3>I'm a Cybersecurity enthusiast, with a strong passion for securing systems against real-world threats. Pursuing a Master’s in Information System Security at Concordia University, I’m actively seeking cybersecurity Co-op internship and full-time opportunities.</h3>
-<p></p>
-<p></p>
-SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe
-<p></p>
-<p></p>
-<i>M.Eng in Information System Security @ Concordia University.</i> 
+ 
 
 
 
@@ -16,7 +11,8 @@ SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on Try
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently studying for CompTIA Security+    
+- 🔭 I’m currently studying for CompTIA Security+
+- SOC | SIEM | Threat Hunting | Penetration Testing | Bug Bounties | Top 2% on TryHackMe    
 - 📫 Reach me at: sahaj.gautam14@gmail.com  
 
 </td>
