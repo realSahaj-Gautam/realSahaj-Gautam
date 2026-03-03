@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahaj!</h1>
 
 <h3>
-Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. Currently pursuing a Master’s in Information System Security at Concordia University, I am actively seeking Cybersecurity Co-op and full-time opportunities.
+Cybersecurity enthusiast with a strong focus on defending systems against real-world threats. I am actively seeking Cybersecurity Co-op Internships.
 </h3>
 
 <p align="center">
