@@ -21,7 +21,7 @@ Cybersecurity enthusiast with a strong focus on defending systems against real-w
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realSahaj-Gautam&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=realSahaj-Gautam&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 * ⚡ Fun fact: I’m a tech enthusiast with a strong interest in cybersecurity research and a passionate cricket follower.
